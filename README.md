@@ -51,7 +51,7 @@ The `sketch_may15a.ino` file includes:
 
 ## 🧑‍💻 Author
 
-- **Your Name**
+- Aryan Nehete
 - B.Tech, MIT Art, Design and Technology University
 
 ## 📄 License
